@@ -20,7 +20,7 @@ public class Project {
     private final String projectName;
 
     /**
-     * Constructs a {@code Project}.
+     * Constructs a {@code Project}.    
      *
      * @param name project name.
      */
